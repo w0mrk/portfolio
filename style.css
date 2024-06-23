@@ -7,7 +7,7 @@ div.textA {box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; ma
 
 div.box {width: 95vw; height: 82.5vh; box-sizing: border-box; display: flex; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
 div.text1 {box-sizing: border-box; width: 95%; height: 13.5vh; display: flex; padding-top: 1.5%; padding-left: 0.5%; font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; text-align: center; }
-div.text2 {box-sizing: border-box; width: 60%; height: 20vh; display: flex; flex-direction: column; padding-top: -5%; padding-left: 30%; margin-top: 10%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.5; font-weight: 425; text-align: center; }
+div.text2 {box-sizing: border-box; width: 60%; height: 20vh; display: flex; flex-direction: column; padding-top: -5%; padding-left: 43%; margin-top: 10%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.5; font-weight: 425; text-align: center; }
 
 }
 
@@ -18,7 +18,7 @@ div.textA {box-sizing: border-box; width: 95%; height: 11.5vh; display: flex; ma
 
 div.box {width: 95vw; height: 82.5vh; box-sizing: border-box; display: flex; flex-wrap: wrap; flex-direction: column; padding-top: 2%; padding-right: 0;} 
 div.text1 {box-sizing: border-box; width: 95%; height: 13.5vh; display: flex; padding-top: 1.5%; padding-left: 0.5%; font-family: Georgia; color: white; font-size: 6.75vw; letter-spacing: 0.1em; line-height: 1.75; font-weight: 530; text-align: center; }
-div.text2 {box-sizing: border-box; width: 60%; height: 20vh; display: flex; flex-direction: column; padding-top: -5%; padding-left: 30%; margin-top: 10%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.5; font-weight: 425; text-align: center; }
+div.text2 {box-sizing: border-box; width: 60%; height: 20vh; display: flex; flex-direction: column; padding-top: -5%; padding-left: 43%; margin-top: 10%;font-family: serif; color: blueviolet;font-size: 6vw; letter-spacing: 0.175em; line-height: 1.5; font-weight: 425; text-align: center; }
 
 }
 
